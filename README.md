@@ -15,3 +15,6 @@
 - [Report for Restud AGM](https://github.com/REStud/report)
 - [Annotated READMEs](https://github.com/REStud/annotated-READMEs)
 
+### Teaching
+- [Advanced Macroeconomics](https://github.com/CEU-Economics-and-Business/ECBS-6001-Advanced-Macroeconomics)
+- [Coding for Economists](https://github.com/CEU-Economics-and-Business/2020-11-10-ECBS-5241-Coding-for-Economists)
