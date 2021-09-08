@@ -1,16 +1,17 @@
-### Hi there 👋
+## Projects I am currently working on
+(some of these repos are private)
 
-<!--
-**korenmiklos/korenmiklos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research
+- [expat](https://github.com/korenmiklos/expat-analysis)
+- [machines](https://github.com/ceumicrodata/machines)
+- [supplier survey](https://github.com/ceumicrodata/ss-descriptives)
 
-Here are some ideas to get you started:
+### Websites
+- [kezdigabor.life](https://github.com/korenmiklos/kezdigabor.life)
+- [CEU MicroData Handbook](https://github.com/ceumicrodata/handbook)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reproducibility
+- [Reprodicuble Research Standards](https://github.com/REStud/guidance)
+- [Report for Restud AGM](https://github.com/REStud/report)
+- [Annotated READMEs](https://github.com/REStud/annotated-READMEs)
+
