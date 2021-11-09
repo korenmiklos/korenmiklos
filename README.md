@@ -16,4 +16,5 @@
 | [Annotated READMEs](https://github.com/REStud/annotated-READMEs) | [issues](https://github.com/REStud/annotated-READMEs/issues) |
 | **Teaching** |
 | [Advanced Macroeconomics](https://github.com/CEU-Economics-and-Business/ECBS-6001-Advanced-Macroeconomics) | [issues](*/issues) |
-| [Coding for Economists](https://github.com/CEU-Economics-and-Business/2020-11-10-ECBS-5241-Coding-for-Economists) | [issues](*/issues) |
+| [Empirical Research Methods](https://github.com/ceu-economics-and-business/2021-11-02-ECBS-6233/) | [issues](https://github.com/ceu-economics-and-business/2021-11-02-ECBS-6233/issues) |
+| [Coding for Economists](https://github.com/CEU-Economics-and-Business/2020-11-10-ECBS-5241-Coding-for-Economists) | [issues](https://github.com/CEU-Economics-and-Business/2020-11-10-ECBS-5241-Coding-for-Economists/issues) |
