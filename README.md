@@ -4,7 +4,7 @@
 | Repo | Issues | Website |
 |---|---|---|
 | **Research** |
-| [expat](https://github.com/korenmiklos/expat-analysis) | [issues](https://github.com/korenmiklos/expat-analysis/issues) | |
+| [expat](https://github.com/korenmiklos/expat-analysis) | [<img src="https://img.shields.io/github/issues/korenmiklos/expat-analysis"/>](https://github.com/korenmiklos/expat-analysis/issues) | |
 | [machines](https://github.com/ceumicrodata/machines) | [issues](https://github.com/ceumicrodata/machines/issues) | |
 | [supplier survey](https://github.com/ceumicrodata/ss-descriptives) | [issues](https://github.com/ceumicrodata/ss-descriptives/issues) | |
 | **Websites** | 
