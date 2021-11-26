@@ -14,6 +14,7 @@
 | [Reprodicuble Research Standards](https://github.com/REStud/guidance) | [<img src="https://img.shields.io/github/issues/restud/guidance"/>](https://github.com/REStud/guidance/issues) |
 | [Report for Restud AGM](https://github.com/REStud/report) | [<img src="https://img.shields.io/github/issues/restud/report"/>](https://github.com/REStud/report/issues) |
 | [Annotated READMEs](https://github.com/REStud/annotated-READMEs) | [<img src="https://img.shields.io/github/issues/restud/annotated-READMEs"/>](https://github.com/REStud/annotated-READMEs/issues) | [Annotated READMEs](https://restud.github.io/annotated-READMEs/public/) |
+| [Template README](https://github.com/REStud/templatereadme.org) | [<img src="https://img.shields.io/github/issues/restud/templatereadme.org"/>](https://github.com/REStud/templatereadme.org/issues) | [Template README](https://templatereadme.org) |
 | **Teaching** |
 | [Advanced Macroeconomics](https://github.com/CEU-Economics-and-Business/ECBS-6001-Advanced-Macroeconomics) | [issues](*/issues) | [Advanced Macroeconomics](https://CEU-Economics-and-Business.github.io/ECBS-6001-Advanced-Macroeconomics)|
 | [Empirical Research Methods](https://github.com/ceu-economics-and-business/2021-11-02-ECBS-6233/) | [<img src="https://img.shields.io/github/issues/ceu-economics-and-business/2021-11-02-ECBS-6233"/>](https://github.com/ceu-economics-and-business/2021-11-02-ECBS-6233/issues) | [Empirical Research Methods](https://ceu-economics-and-business.github.io/2021-11-02-ECBS-6233/) |
